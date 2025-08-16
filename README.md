@@ -1,4 +1,4 @@
-# Devcontainer Base Setup for python
+# Devcontainer base setup for python
 This repo provides a base setup for dev containers with python.
 
 ## Prerequisites
@@ -7,6 +7,6 @@ This repo provides a base setup for dev containers with python.
 
 ## Run
 - Open VS Code
-- Press F1 and run "Dev Containers: Repoen in Container"
+- Press F1 and run "Dev Containers: Reopen in Container"
 - Connect to Devcontainer
 
