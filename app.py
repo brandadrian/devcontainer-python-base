@@ -47,3 +47,6 @@ def print_all_commands():
     ]
     print(all_commands)
     return jsonify(all_commands)
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000, debug=True)

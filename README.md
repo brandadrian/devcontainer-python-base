@@ -9,5 +9,6 @@ This repo provides a base setup for dev containers with python.
 - Open VS Code
 - Press F1 and run "Dev Containers: Reopen in Container"
 - Connect to Devcontainer
-- Start the debugger or run it in VSCode inside the dev container
+- In the dev container terminal, run either `python app.py` or `python -m flask --app app run --debug`
+- To run the standalone sum script, use `python sum_numbers.py` (or `python3 sum_numbers.py` if `python` is unavailable)
 - ![Flask Application Running](assets/devcontainer-python.png)
